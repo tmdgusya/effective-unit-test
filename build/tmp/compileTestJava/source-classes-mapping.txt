@@ -1,3 +1,7 @@
 chapter03/domain/CarTest.java
  chapter03.domain.CarTest
  chapter03.domain.CarTest$TestEngine
+myBlog03/PaymentServiceImplTest.java
+ myBlog03.PaymentServiceImplTest
+ myBlog03.PaymentServiceImplTest$TestDataBase
+ myBlog03.PaymentServiceImplTest$TestExternalPaymentService
