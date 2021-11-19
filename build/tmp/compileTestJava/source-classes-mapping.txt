@@ -1,0 +1,3 @@
+chapter03/domain/CarTest.java
+ chapter03.domain.CarTest
+ chapter03.domain.CarTest$TestEngine
