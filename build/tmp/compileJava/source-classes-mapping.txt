@@ -16,3 +16,19 @@ myBlog03/ExternalPaymentService.java
  myBlog03.ExternalPaymentService
 myBlog03/PaymentService.java
  myBlog03.PaymentService
+chapter03/repository/FakeUserRepository.java
+ chapter03.repository.FakeUserRepository
+chapter03/domain/Logger.java
+ chapter03.domain.Logger
+chapter03/domain/DLog.java
+ chapter03.domain.DLog
+chapter03/domain/LoggerStub.java
+ chapter03.domain.LoggerStub
+chapter03/domain/DLogTarget.java
+ chapter03.domain.DLogTarget
+chapter03/domain/User.java
+ chapter03.domain.User
+chapter03/domain/LogLevel.java
+ chapter03.domain.LogLevel
+chapter03/repository/UserRepository.java
+ chapter03.repository.UserRepository
